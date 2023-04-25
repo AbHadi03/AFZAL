@@ -16,7 +16,7 @@ jobs:
       - checkout
       - run:
           name: "Say hello"
-          command: "echo Hello, Hey AFZAL LET'S PLAY CRICKET World!"
+          command: "echo Hello, Hey AFZAL LETS PLAY CRICKET World!"
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
